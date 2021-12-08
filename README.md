@@ -5,4 +5,6 @@ Download Here: [ISZ-Backup-Tool](https://github.com/Cracko298/Ice-Station-Z-Back
 
 Like normal. This application has to be inside the "Downloads" folder on the C:\ Disk.
 
+*This Version of the Save Manager, marks the first time Quick Backups/Imports are a thing!*
+
 *Known Bug: The Save Manager (the original version) cannot write while previous Backup files are inside the folder. Until this gets fixed I suggest making sub-folders for each backup inside of the "Backup-Saves" folder.*
