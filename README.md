@@ -1,18 +1,18 @@
-# Ice-Station-Z-Backup-Tool
-This is also a Save Manager to backup your Ice Station Z PC/Steam saves into a folder. It can also import/inject backup save data. In-Case you ever forget to exit without saving, Or you just died of dehydration while AFK while a day passed by.
+# Wobbly-Tooth-Save-Manager
+This is a Save Manager to backup your Ice Station Z PC/Steam & Arkady Smith saves into a folder. It can also import/inject backup save data. In-Case you ever forget to exit without saving, Or corrupt your save file somehow.
 
-Download Here: [ISZ-Backup-Tool](https://github.com/Cracko298/Ice-Station-Z-Backup-Tool/files/7672889/ISZ-Backup-Tool.zip)
+Download Here: [Wobbly-Tooth-Save-Manager](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/files/7681811/Wobbly-Tooth-Save-Manager.zip)
 
 Like normal. This application has to be inside the "Downloads" folder on the C:\ Disk.
 
-*This Version of the Save Manager, marks the first time Quick Backups/Imports are a thing!*
+![image](https://user-images.githubusercontent.com/78656905/145324657-6d5ff939-2e16-4866-b200-2933396f0920.png)
 
-*Known Bug: The Save Manager (the original version) cannot write while previous Backup files are inside the folder. Until this gets fixed I suggest making sub-folders for each backup inside of the "Backup-Saves" folder.*
+![image](https://user-images.githubusercontent.com/78656905/145324754-025b1f50-7a33-45c5-b957-9b51da957df2.png)
 
-![e4eca73c-7c50-43a6-a493-c18e02ba0b02](https://user-images.githubusercontent.com/78656905/145291120-8e099ecf-7cea-4232-b6e2-25101ef61662.png)
+![image](https://user-images.githubusercontent.com/78656905/145325051-3eb21cbf-fb44-45b8-9627-35d7f67d45c8.png)
 
-![72cfcbf3-b17f-4a89-8047-f1e244c1f2c1](https://user-images.githubusercontent.com/78656905/145291121-a2a2fc8f-9935-48b7-8b5f-5c69e4138a18.png)
+![image](https://user-images.githubusercontent.com/78656905/145324824-de73c180-e659-47d2-a108-d133b4e547bd.png)
 
-![8e62200d-bd24-4f07-bce2-6782186d5c30](https://user-images.githubusercontent.com/78656905/145291123-d877f4d0-f36d-47ca-98f9-4dac23c3414c.png)
+![image](https://user-images.githubusercontent.com/78656905/145324938-e90f6545-b418-4b96-8770-4a915f0b1610.png)
 
-![Screenshot 2021-12-07 225323](https://user-images.githubusercontent.com/78656905/145291124-8d668abc-62d5-4552-86bb-f9c29af5b058.png)
+![image](https://user-images.githubusercontent.com/78656905/145325359-4534f56c-9550-4c2e-84b1-96039f3cf5ab.png)
