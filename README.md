@@ -7,6 +7,8 @@ Installer Download Here: [Wobbly-Tooth-Save-Manager-Installer](https://github.co
 
 Like normal. This application has to be inside the "Downloads" folder on the C:\ Disk.
 
+The Installer Package Carries a special made version re-written from scratch. It should load faster, and I decided to allow backups to be moved into a import folder right after you backup you data. Will be adding it to where it just copies it to your Documents folder soon.
+
 ![image](https://user-images.githubusercontent.com/78656905/145324657-6d5ff939-2e16-4866-b200-2933396f0920.png)
 
 ![image](https://user-images.githubusercontent.com/78656905/145324754-025b1f50-7a33-45c5-b957-9b51da957df2.png)
