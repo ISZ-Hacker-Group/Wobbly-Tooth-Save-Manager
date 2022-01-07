@@ -1,1 +1,3 @@
 https://superuser.com/questions/937370/get-random-folder-name-and-write-it-as-foldername
+
+https://www.tutorialspoint.com/batch_script/batch_script_variables.htm
