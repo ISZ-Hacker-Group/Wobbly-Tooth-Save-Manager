@@ -5,6 +5,8 @@ Download Here: [Wobbly-Tooth-Save-Manager](https://github.com/Cracko298/Wobbly-T
 
 Installer Download Here: [Wobbly-Tooth-Save-Manager-Intsaller](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/files/7872640/Wobbly-Tooth-Save-Manager-Intsaller.zip)
 
+These applications may trigger windows defender. (These are false positives). This is 100% the old application just updated to work with a better compiler.
+
 Like normal. This application has to be inside the "Downloads" folder on the C:\ Disk.
 
 The Installer Package Carries a special made version re-written from scratch. It should load faster, and I decided to allow backups to be moved into a import folder right after you backup you data. Will be adding it to where it just copies it to your Documents folder soon.
