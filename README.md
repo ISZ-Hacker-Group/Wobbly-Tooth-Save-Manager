@@ -3,7 +3,8 @@ This is a Save Manager to backup your Ice Station Z PC/Steam & Arkady Smith save
 
 Download Here: [Wobbly-Tooth-Save-Manager](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/files/7872637/Wobbly-Tooth-Save-Manager.zip)
 
-Installer Download Here: [Wobbly-Tooth-Save-Manager-Intsaller](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/files/7872640/Wobbly-Tooth-Save-Manager-Intsaller.zip)
+Installer Download Here: [Wobbly-Tooth-Save-Manager-Intsaller](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/files/7874202/Wobbly-Tooth-Save-Manager-Intsaller.zip)
+
 
 These applications may trigger windows defender. (These are false positives). This is 100% the old application just updated to work with a better compiler.
 
