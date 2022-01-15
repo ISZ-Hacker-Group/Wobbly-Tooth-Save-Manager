@@ -5,7 +5,9 @@ Download Here: [Wobbly-Tooth-Save-Manager](https://github.com/Cracko298/Wobbly-T
 
 Installer Download Here: [Wobbly-Tooth-Save-Manager-Intsaller](https://github.com/Cracko298/Wobbly-Tooth-Save-Manager/files/7874212/Wobbly-Tooth-Save-Manager-Intsaller.zip)
 
-May have broken the Installer file. If I did, just make a issue request if you encounter anything. ;) Thanks in advance.
+Updated & May have broken the Installer file. If I did, just make a issue request if you encounter anything. ;) Thanks in advance.
+
+- Updated the installer to not delete any data from previous installation. (You're Welcome).
 
 These applications may trigger windows defender. (These are false positives). This is 100% the old application just updated to work with a better compiler.
 
